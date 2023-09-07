@@ -11,16 +11,18 @@
 
 ## ✨ Features
 
-- Automatically orders slides numerically
-- Change slide using arrow keys, clicking, or pressing _Enter_
+- Message is stored in MYSQL database
+- PHP is used in the backend to process and retrieve messages
+- Each message is anonymous
+- Each message uses the universal UTC timestamp
 
 ## 📋 To-do List
 
-- Add slide number in bottom right corner
-- Allow for moving back a slide
+- Display time as _ minutes ago instead of timestamp
+- Automatically refresh messages
 
 ## 📜 Credits
 
-Everything is coded by Alex lo Storto
+Everything is coded by Alex lo Storto unless otherwise noted
 
 Licensed under the MIT License.
